@@ -6,9 +6,11 @@ body {
 
 h1 {
 color: goldenrod;
+  align: center;
 }
 
 img{
+  align: center;
   width: 50%;
   border: 3px solid purple;
   /*
