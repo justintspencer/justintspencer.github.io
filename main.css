@@ -9,5 +9,11 @@ color: goldenrod;
 }
 
 img{
-  width: 50%
+  width: 50%;
+  border: 3px solid purple;
+  /*
+  border-style
+  border- size
+  border-color
+  */
 }
